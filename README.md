@@ -9,7 +9,7 @@
 ![AngularJs](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)</h2>
 
 
-- 🌱 I’m currently learning Vue.js
+
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnmaclima/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:johnclecio.21@gmail.com)
 <br><br>
