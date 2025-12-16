@@ -1,18 +1,23 @@
-### Olá! 👋
+## Olá! 👋  
+### Meu nome é John Lima 💻
 
-<h2> Meu nome é John Lima 💻 <br><br>
+🚀 Desenvolvedor Java com foco em aplicações backend usando **Spring Boot**, **JPA** e **H2**.
 
-<a href="https://johnclecio.github.io/portfolio/">Portfolio</a>
+🔗 **Portfólio:**  
+👉 https://johnclecio.github.io/portfolio/
+
+---
+
+### 🛠️ Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-</h2>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![H2](https://img.shields.io/badge/H2-1E88E5?style=for-the-badge&logo=databricks&logoColor=white)
 
-- 📫 Como me encontrar: [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnmaclima/) 
+---
+
+### 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnmaclima/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:johnclecio.21@gmail.com)
-<br><br>
