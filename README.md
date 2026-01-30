@@ -4,7 +4,7 @@
 🚀 Desenvolvedor Java com foco em aplicações backend usando **Spring Boot**, **JPA** e **H2**.
 
 🔗 **Portfólio:**  
-👉 [https://johnmaclima.blogspot.com/]
+👉 [[https://johnclecio.github.io/](https://johnclecio.github.io/)]
 
 ---
 
