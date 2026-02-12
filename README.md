@@ -5,7 +5,9 @@
 
 ## 📊 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnclecio&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnclecio&layout=compact)
+
+
 
 
 🔗 **Portfólio:**  
