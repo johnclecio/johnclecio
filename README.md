@@ -3,11 +3,7 @@
 
 🚀 Desenvolvedor Java com foco em aplicações backend usando **Spring Boot**, **JPA** e **H2**.
 
-## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=johnclecio&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=johnclecio&layout=compact&theme=radical)
 
 
 
