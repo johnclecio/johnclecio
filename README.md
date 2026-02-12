@@ -3,6 +3,11 @@
 
 🚀 Desenvolvedor Java com foco em aplicações backend usando **Spring Boot**, **JPA** e **H2**.
 
+## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnclecio&layout=compact&theme=dark)
+
+
 🔗 **Portfólio:**  
 👉 [[https://johnclecio.github.io/](https://johnclecio.github.io/)]
 
